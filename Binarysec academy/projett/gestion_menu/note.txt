@@ -1,0 +1,10 @@
+on vas avoir la classe menu avec comme atribut nom, prix et image. 
+le manager et le client sont differencier par un role, 
+une fois la class categorie obtenu, extensier la class pour pouvoir ajouter les categorie automatiquement.
+creer une table user qui est relier a la table role, si utilisateur existe deja chercher son role.
+En fonction du role envoyer sur la section.
+
+menu relier a categorie, relier menu et utilisateur. 
+class utilisateur regroupant client et manager qui sera differencier par le role.
+
+rechercher input image (desing in html)
